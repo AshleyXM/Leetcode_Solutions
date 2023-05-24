@@ -1,7 +1,7 @@
 # LeetCode_Solutions
 Record my solutions to LeetCode problems
 
-***Note:** The solutions are necessarily optimal.*
+***Note:** The solutions are not necessarily optimal.*
 
 # Statistics
 
