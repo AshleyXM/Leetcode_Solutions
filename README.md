@@ -1,5 +1,9 @@
 # LeetCode_Solutions
-Record my solutions of LeetCode problems
+Record my solutions to LeetCode problems
+
+***Note:** The solutions are not necessarily the optimal ones.*
+
+# Statistics
 
 | Problem ID  | Title | My Solution | Difficulty | Problem Type | Accepted Date |
 | ------------------------------------------- | ---- | ---------- | ---- | ---- | ---- |
