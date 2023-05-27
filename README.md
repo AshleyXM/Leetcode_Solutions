@@ -11,4 +11,5 @@ Record my solutions to LeetCode problems
 | [0003](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0003/Problem.md) | Longest Substring Without Repeating Characters | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0003/Solution.java) | Medium | String | 5/23/2023 |
 | [0013](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0013/Problem.md) | Roman to Integer | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0013/Solution.java) | Easy | String | 5/25/2023 |
 | [0020](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0020/Problem.md) | Valid Parentheses | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0020/Solution.java) | Easy | String | 5/26/2023 |
+| [0028](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0028/Problem.md) | Find the Index of the First Occurrence in a String | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0028/Solution.java) | Easy | String | 5/27/2023 |
 
