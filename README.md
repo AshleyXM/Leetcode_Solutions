@@ -5,14 +5,14 @@ Record my solutions to LeetCode problems
 
 # Statistics
 
-| Problem ID  | Title | My Solution | Difficulty | Problem Type | Accepted Date |
+| Problem ID  | Title on LeetCode | My Solution | Difficulty | Problem Type | Accepted Date |
 | ------------------------------------------- | ---- | ---------- | ---- | ---- | ---- |
-| [0001](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0001/Problem.md) | Two Sum | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0001/Solution.java) | Easy | Array | 5/23/2023 |
-| [0003](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0003/Problem.md) | Longest Substring Without Repeating Characters | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0003/Solution.java) | Medium | String | 5/23/2023 |
-| [0013](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0013/Problem.md) | Roman to Integer | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0013/Solution.java) | Easy | String | 5/25/2023 |
-| [0020](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0020/Problem.md) | Valid Parentheses | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0020/Solution.java) | Easy | String | 5/26/2023 |
-| [0028](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0028/Problem.md) | Find the Index of the First Occurrence in a String | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0028/Solution.java) | Easy | String | 5/27/2023 |
-| [0058](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0058/Problem.md) | Length of Last Word | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0058/Solution.java) | Easy | String | 5/27/2023 |
-| [0067](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0067/Problem.md) | Add Binary | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0067/Solution.java) | Easy | String | 5/27/2023 |
-| [0125](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0125/Problem.md) | Valid Palindrome | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0125/Solution.java) | Easy | String | 5/27/2023 |
+| [0001](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0001/Problem.md) | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0001/Solution.java) | Easy | Array | 5/23/2023 |
+| [0003](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0003/Problem.md) | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0003/Solution.java) | Medium | String | 5/23/2023 |
+| [0013](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0013/Problem.md) | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0013/Solution.java) | Easy | String | 5/25/2023 |
+| [0020](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0020/Problem.md) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0020/Solution.java) | Easy | String | 5/26/2023 |
+| [0028](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0028/Problem.md) | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0028/Solution.java) | Easy | String | 5/27/2023 |
+| [0058](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0058/Problem.md) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0058/Solution.java) | Easy | String | 5/27/2023 |
+| [0067](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0067/Problem.md) | [Add Binary](https://leetcode.com/problems/add-binary/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0067/Solution.java) | Easy | String | 5/27/2023 |
+| [0125](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0125/Problem.md) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0125/Solution.java) | Easy | String | 5/27/2023 |
 
