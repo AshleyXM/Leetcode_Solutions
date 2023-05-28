@@ -5,7 +5,7 @@ Record my solutions to LeetCode problems
 
 # Statistics
 
-| Problem ID  | Title on LeetCode | My Solution | Difficulty | Problem Type | Accepted Date |
+| Problem ID  | Problem Link on LeetCode | My Solution | Difficulty | Problem Type | Accepted Date |
 | ------------------------------------------- | ---- | ---------- | ---- | ---- | ---- |
 | [0001](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0001/Problem.md) | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0001/Solution.java) | Easy | Array | 5/23/2023 |
 | [0003](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0003/Problem.md) | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0003/Solution.java) | Medium | String | 5/23/2023 |
