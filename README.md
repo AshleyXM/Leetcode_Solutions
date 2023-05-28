@@ -16,5 +16,6 @@ Record my solutions to LeetCode problems
 | [0035](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0035/Problem.md) | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0035/Solution.java) | Easy | Array | 5/27/2023 |
 | [0058](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0058/Problem.md) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0058/Solution.java) | Easy | String | 5/27/2023 |
 | [0067](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0067/Problem.md) | [Add Binary](https://leetcode.com/problems/add-binary/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0067/Solution.java) | Easy | String | 5/27/2023 |
+| [0069](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0069/Problem.md) | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0069/Solution.java) | Easy | Math | 5/28/2023 |
 | [0125](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0125/Problem.md) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/0125/Solution.java) | Easy | String | 5/27/2023 |
 
