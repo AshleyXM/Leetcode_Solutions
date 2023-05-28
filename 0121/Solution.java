@@ -18,7 +18,8 @@ class Solution {
             if(prices[i] < min) {
                 min = prices[i];
             } else if(prices[i] - min > profit) {
-            // the maximum profit must be the difference between the current value and the minumal value before the current element
+				// the maximum profit must be the difference between the current
+				// value and the minimal value before the current element
                 profit = prices[i] - min;
             }
         }
