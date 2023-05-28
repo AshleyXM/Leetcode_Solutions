@@ -1,6 +1,6 @@
 class Solution {
     public int climbStairs(int n) {
-        // DO NOT use recursive method because time limit will exceed
+        // DO NOT use recursive method because it will exceed the time limit
         int[] res = new int[46]; // leave the first element alone
         res[1] = 1;
         res[2] = 2;
