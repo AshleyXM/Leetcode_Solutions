@@ -4,7 +4,7 @@ class Solution {
         int end = x;
         // speed up the exploring process by using binary search
         while(start <= end) {
-            // if using int to store mid, then mid * mid will overflow, so it is better to use long type
+            // if using type int to store mid, then mid * mid will overflow, so it is better to use type long
             long mid = (long)((start + end) /2);
             if(mid * mid > x) {
                 end = (int)mid -1;
