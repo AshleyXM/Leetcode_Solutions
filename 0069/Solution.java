@@ -5,7 +5,7 @@ class Solution {
         // speed up the exploring process by using binary search
         while(start <= end) {
             // if using type int to store mid, then mid * mid will overflow, so it is better to use type long
-            long mid = (long)((start + end) /2);
+            long mid = (long)((start + end) / 2);
             if(mid * mid > x) {
                 end = (int)mid -1;
             } else if(mid * mid < x) {
