@@ -13,7 +13,7 @@ class Solution {
 
         // Solution 2: solve it by using the pattern
         while(num > 9) 
-            num = num % 10 + num/10;
+            num = num % 10 + num / 10;
         return num;
     }
 }
