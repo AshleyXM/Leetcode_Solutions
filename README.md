@@ -3,6 +3,8 @@ Record my solutions to LeetCode problems
 
 ***Note:** The solutions are not necessarily optimal.*
 
+***Note:*** The cost information in each problem is for reference only, since I found that even if it was submitted with exactly the same code at different times, the time efficiency and memory efficiency will vary a lot.
+
 # Statistics
 
 | Problem ID  | Problem Description | My Solution | Difficulty | Problem Type | Accepted Date | Note |
@@ -49,3 +51,4 @@ Record my solutions to LeetCode problems
 | [1491](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/1491/Problem.md) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/1491/Solution.java) | Easy | Array, Sorting | 6/1/2023 | |
 | [1822](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Sign of the Product of an Array](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/1822/Problem.md) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/1822/Solution.java) | Easy | Array, Math | 6/1/2023 | |
 | [2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Find the Difference of Two Arrays](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/2215/Problem.md) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/2215/Solution.java) | Easy | Array, Hash Table | 6/1/2023 | The method I used is just like the most original one, which has a low efficiency. |
+| [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Minimum String Length After Removing Substrings](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/2696/Problem.md) | [Java](https://github.com/AshleyXM/Leetcode_Solutions/blob/main/2696/Solution.java) | Easy | String, Stack, Simulation | 6/6/2023 | Involved with the use of the stack structure. |
