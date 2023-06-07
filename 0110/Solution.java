@@ -24,28 +24,22 @@ class Solution {
             TreeNode curNode = pendList.get(size - 1);
             if(curNode.left != null && curNode.right != null) { // has both left and right nodes
                 int hdiff = getHeight(curNode.left) - getHeight(curNode.right);
-                if(Math.abs(hdiff) <= 1) {
-                    pendList.add(curNode.left);
-                    pendList.add(curNode.right);
-                    pendList.remove(size - 1);
-                    size++;
-                } else {
+                if(Math.abs(hdiff) > 1)
                     return false;
-                }
+                pendList.add(curNode.left);
+                pendList.add(curNode.right);
+                pendList.remove(size - 1);
+                size++;
             } else if(curNode.left != null) { // no right child
                 if(getHeight(curNode.left) > 1)
                     return false;
-                else {
-                    pendList.add(curNode.left);
-                    pendList.remove(size - 1);
-                }
+                pendList.add(curNode.left);
+                pendList.remove(size - 1);
             } else if(curNode.right != null) { // no left child
                 if(getHeight(curNode.right) > 1)
                     return false;
-                else {
-                    pendList.add(curNode.right);
-                    pendList.remove(size - 1);
-                }
+                pendList.add(curNode.right);
+                pendList.remove(size - 1);
             } else { // no children
                 pendList.remove(size - 1);
                 size--;
