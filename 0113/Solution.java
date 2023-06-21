@@ -14,8 +14,7 @@
  * }
  */
 class Solution {
-    private static List<Integer> current;
-    private static List<List<Integer>> res;
+    private List<List<Integer>> res;
 
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         res = new ArrayList<>();
@@ -28,7 +27,7 @@ class Solution {
         if(node.left == null && node.right == null) { // leaf node
             if(targetSum == node.val) {
                 String[] numbers = path.split(",");
-                current = new ArrayList<>(); // current must be initialized here rather than in function pathSum
+                List<Integer> current = new ArrayList<>(); // current must be initialized here rather than in function pathSum
                 for(int i = 1; i < numbers.length; i++) {
                     current.add(Integer.parseInt(numbers[i]));
                 }
