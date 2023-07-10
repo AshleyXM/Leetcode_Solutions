@@ -12,8 +12,9 @@ class Solution {
             } else {
                 if(flag == 0) {
                     flag = 1;
+                    // remove the left character or the right character
                     return isPalindrome(low, high - 1, s) || isPalindrome(low + 1, high, s);
-                } else {
+                } else { // more than one character needs removing
                     return false;
                 }
             }
