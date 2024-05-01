@@ -1,9 +1,6 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        int[] flags = new int[nums.length];
-        for(int i = 0; i < flags.length; i++) {
-            flags[i] = 0;
-        }
+        int[] flags = new int[nums.length]; // defaults to be all 0
         List<Integer> path = new ArrayList<>();
         List<List<Integer>> res = new ArrayList<>();
         dfs(nums, flags, path, res);
